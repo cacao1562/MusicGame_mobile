@@ -1,0 +1,39 @@
+##############################
+# Unity folders & files
+**/Library/
+**/obj/
+**/Temp/
+ 
+##############################
+# Source Files
+*.psd
+*.max
+##############################
+# Package files
+*.7z
+*.gz
+*.rar
+*.tar
+*.zip
+ 
+######################
+# Logs and databases
+*.log
+.DS_Store*
+Thumbs.db
+
+Library
+Temp
+obj
+*.DotSettings
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.unityproj
+*.user
+*.userprefs
+*.vscode
+
+*.apk
+
